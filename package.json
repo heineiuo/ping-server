@@ -1,0 +1,26 @@
+{
+  "name": "ping-server",
+  "version": "0.1.0",
+  "description": "If you need know every server instance(client)'s state, you can use ping-client and ping-server.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/heineiuo/ping-server.git"
+  },
+  "keywords": [
+    "ping",
+    "alive",
+    "state",
+    "server",
+    "instnce"
+  ],
+  "author": "http://github.com/heineiuo",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/heineiuo/ping-server/issues"
+  },
+  "homepage": "https://github.com/heineiuo/ping-server#readme"
+}
